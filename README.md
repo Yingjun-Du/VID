@@ -17,4 +17,5 @@ booktitle = {The IEEE Winter Conference on Applications of Computer Vision (WACV
 month = {March},
 
 year = {2020}
+
 }
